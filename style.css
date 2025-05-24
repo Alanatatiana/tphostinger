@@ -397,7 +397,6 @@ header {
 }
 
 .card-text {
- 
   background-color: var(--color-principal-600);
   padding: 32px;
   display: flex;
